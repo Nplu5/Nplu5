@@ -1,4 +1,10 @@
-### Hi there 👋
+# Nplu5
+### Hey there 👋
+
+I am a research scientist coming from a electrical engineering background and discovered my love for development along my studies. I currently work with several technologies like .NET (ASP.NET, Xamarin, Azure), React as well as some Java-Backend Development. Besides that I am just getting into NLP with Python programming. 
+
+Besides that I try to write regularly a on my blog which can be found on [skrause.me](https://blog.skrause.me/).
+
 
 <!--
 **Nplu5/Nplu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
