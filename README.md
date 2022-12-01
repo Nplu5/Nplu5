@@ -1,10 +1,21 @@
 # Nplu5
+
 ### Hey there 👋
 
-I am a research scientist coming from a electrical engineering background and discovered my love for development along my studies. I currently work with several technologies like .NET (ASP.NET, Xamarin, Azure), React as well as some Java-Backend Development. Besides that I am just getting into NLP with Python programming. 
+I am a development engineer 💻 from germany with a background in electrical
+engineering💡. During my studies I discovered my passion for development. I
+currently work in the field of tools for medical device research 🏥🔎. There I
+work most of the time with Kolin and the JVM. In my free time I also like to
+play aroung with JavaScript and TypeScript as well as the
+[Remix-Framework](https://remix.run/)
 
-Besides that I try to write regularly a on my blog which can be found on [skrause.me](https://blog.skrause.me/).
+📫 How to reach me:
 
+- [Twitter](https://twitter.com/nplu5)
+- [Email](simon@skrause.me)
+- [Mastodon](https://fosstodon.org/@skrause)
+
+😄 Pronouns: he/him
 
 <!--
 **Nplu5/Nplu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
