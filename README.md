@@ -7,12 +7,12 @@ engineering💡. During my studies I discovered my passion for development. I
 currently work in the field of tools for medical device research 🏥🔎. There I
 work most of the time with Kolin and the JVM. In my free time I also like to
 play aroung with JavaScript and TypeScript as well as the
-[Remix-Framework](https://remix.run/)
+[Remix-Framework](https://remix.run/).
 
 📫 How to reach me:
 
 - [Twitter](https://twitter.com/nplu5)
-- [Email](simon@skrause.me)
+- [Email](mailto:simon@skrause.me)
 - [Mastodon](https://fosstodon.org/@skrause)
 
 😄 Pronouns: he/him
