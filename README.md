@@ -11,7 +11,6 @@ play aroung with JavaScript and TypeScript as well as the
 
 📫 How to reach me:
 
-- [Twitter](https://twitter.com/nplu5)
 - [Email](mailto:simon@skrause.me)
 - [Mastodon](https://fosstodon.org/@skrause)
 
